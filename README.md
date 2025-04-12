@@ -128,11 +128,11 @@ This project is licensed under the MIT License
 ## Credits & Acknowledgments
 
 - Thai cuisine knowledge base: [ThaiRecipes.pdf](https://agno-public.s3.amazonaws.com/recipes/ThaiRecipes.pdf)
-- Built with [Agno AI](https://github.com/agno-ai/agno) framework
+- Built with [Agno AI](https://github.com/agno-agi/agno) framework
 - UI powered by [Streamlit](https://streamlit.io/)
 
 
 ## Resources
 
-- [Agno AI Documentation](https://docs.agno.ai/)
+- [Agno AI Documentation](https://docs.agno.com/introduction)
 - [Streamlit Documentation](https://docs.streamlit.io/)
